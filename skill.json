@@ -1,0 +1,15 @@
+{
+  "name": "genpark-dijkstra-weakest-precondition-wp-calculus-skill",
+  "version": "1.0.0",
+  "description": "Dijkstra's Weakest Precondition (wp) calculus predicate transformer.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "weakest-precondition",
+    "wp-calculus",
+    "dijkstra",
+    "predicate-transformer",
+    "agentic-ai"
+  ]
+}
